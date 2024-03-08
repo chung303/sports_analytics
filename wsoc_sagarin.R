@@ -1,5 +1,7 @@
 #In this program, I import an Excel spreadsheet of NCAA women soccer games and
-# create a computer poll using a regression on margin-of-victory.
+# create a computer poll using a regression on margin-of-victory. Then I import 
+# another spreadsheet of win-loss totals for all schools, to merge with with the 
+# rankings.
 
 library(readxl)
 library(insight)
