@@ -9,9 +9,8 @@ Created on Tue Sep 12 04:22:05 2023
 """
 Created on Fri Jan  7 03:59:37 2022
 
-In this program, I scrape NCAA women's soccer game-level data and create a computer poll based on 
-margin-of-victory.
-
+In this program, I scrape NCAA women's soccer game-level data, wrangle the data to create a spreadsheet
+to create a computer poll based on margin-of-victory.
 @author: Owner
 """
 #Include only teams that have played a minimum of 6 games
